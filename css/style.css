@@ -87,3 +87,29 @@ th {
 i {
     font-size: 25px;
 }
+
+.bxs-chevran-up-circle {
+    color:#00c9a7;
+}
+.bxs-chevran-down-circle {
+    color:#d83121;
+}
+
+.columnAction {
+    width: 40px;
+    text-align: center;
+}
+
+.columnAction>button {
+    background: transparent;
+    border: none;
+}
+
+.columnAmount {
+    width: 30%;
+}
+
+.columType {
+    width: 80px;
+    text-align: center;
+}
